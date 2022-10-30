@@ -1,5 +1,6 @@
 # fa22_discussion9
 Fall '22 Discussion 9
+
 Modify the code in discussion_9.py. 
 
 To add this file to the staging area for a commit use:
